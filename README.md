@@ -125,8 +125,72 @@ We welcome contributions to enhance this project. Please follow these steps:
    ```
 5. **Open a Pull Request**.
 
+
 ---
 
+# **Example Questions for AI Video Editing Agent**
+
+Leverage the AI Video Editing Agent to get tailored and actionable insights for improving your videos. Here are some example questions you can ask to receive better and more specific results:
+
+---
+
+## **1. General Editing Suggestions**  
+- "Analyze the video and suggest edits to improve clarity and engagement."  
+- "What parts of this video should be cut out to improve pacing and keep the viewer's attention?"
+
+---
+
+## **2. Content-Specific Edits**  
+- "Can you highlight the key moments in this video and suggest how to make them more impactful?"  
+- "Which segments of this video can be trimmed or removed without losing important context?"
+
+---
+
+## **3. Improving Quality**  
+- "Suggest edits to improve the audio and video quality, such as color correction or noise reduction."  
+- "Identify any visual distractions or inconsistencies and recommend ways to fix them."
+
+---
+
+## **4. Narrative Enhancements**  
+- "How can the flow of the video be improved? Are there any parts where the narrative feels disjointed?"  
+- "Could you suggest a more engaging intro or outro for this video?"
+
+---
+
+## **5. Cut and Highlight Specific Sections**  
+- "Please identify sections of the video that should be shortened or removed for better conciseness."  
+- "What parts of the video should be highlighted to create a more powerful message?"
+
+---
+
+## **6. Add Creative Effects**  
+- "Suggest creative edits, such as transitions, text overlays, or effects, to make this video more engaging."  
+- "Can you recommend special effects or graphics to enhance the visual appeal of this video?"
+
+---
+
+## **7. Improving Audience Engagement**  
+- "What are the best parts of this video to highlight for maximum audience engagement?"  
+- "Where can I add call-to-action elements in this video to drive more viewer interaction?"
+
+---
+
+## **8. Optimizing for Social Media**  
+- "How can this video be optimized for social media platforms (e.g., Instagram, TikTok)?"  
+- "Can you suggest edits to make this video more shareable on platforms like YouTube and Instagram?"
+
+---
+
+### **Why Ask These Questions?**
+These targeted questions guide the AI agent to provide actionable suggestions for improving your video. Whether you're optimizing for clarity, engagement, or platform-specific requirements, these prompts ensure a more efficient and impactful editing process.
+
+---
+
+Feel free to copy and modify these examples to suit your specific video editing needs! 💻🎥  
+
+
+---
 ## **Acknowledgements**
 - **Streamlit**: For providing the web application framework.  
 - **Google Generative AI**: For advanced video and content analysis.  
