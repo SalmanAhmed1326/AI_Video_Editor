@@ -1,6 +1,3 @@
-Here's the polished **README** for your GitHub repository:
-
----
 
 # **AI Video Editing Assistant**
 
@@ -56,8 +53,9 @@ This multimodal **AI Video Editing Assistant** is created using the **Phidata fr
 
 3. **Set Up Environment Variables**:
    - Create a `.env` file in the project root.
-   - Add your Google API key:
+   - Add your Google API key and Phidata API Key:
      ```plaintext
+     PHIDATA_API_KEY=your_phidata_api_key_here
      GOOGLE_API_KEY=your_google_api_key_here
      ```
 
@@ -142,3 +140,4 @@ For any questions or feedback, please reach out at **sh13jj2648@gmail.com**.
 ---
 
 **Happy Editing!** 🎥✨
+![Uploading image.png…]()
